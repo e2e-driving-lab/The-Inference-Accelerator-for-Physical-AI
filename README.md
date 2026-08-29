@@ -5,6 +5,9 @@ This paper proposes an open and hardware-independent architecture for connecting
 
 The central concept is to use open-source compiler technologies and ONNX / ONNX Runtime Execution Providers (EPs) as a logical bridge between cloud-based training infrastructures and edge inference systems.
 Furthermore, the architecture emphasizes portability and long‑term maintainability by ensuring that model optimization, graph partitioning, and kernel mapping remain decoupled from any specific semiconductor vendor or proprietary software stack.
+## Appendix: 
+ONNX and TOSA based Portability and Rapidus / Tenstorrent Inference Architecture 　
+Latest　Revised July 27, 2026
 *****************************************************************************************************************************************
 The following passage is taken from the document released in September 2025, Strategic Considerations of the Gate-All-Around (GAA) Transistor for AI Semiconductors in Software-Defined Vehicles (SDVs) and Robotic Manipulation Systems: latest revised on Dec. 04, 2025.
 
