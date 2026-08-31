@@ -5,6 +5,8 @@ This paper proposes an open and hardware-independent architecture for connecting
 
 The central concept is to use open-source compiler technologies and ONNX / ONNX Runtime Execution Providers (EPs) as a logical bridge between cloud-based training infrastructures and edge inference systems.
 Furthermore, the architecture emphasizes portability and long‑term maintainability by ensuring that model optimization, graph partitioning, and kernel mapping remain decoupled from any specific semiconductor vendor or proprietary software stack.
+Latest  Ver.4-3 Revised July 30, 2026
+
 ## Appendix: 
 ONNX and TOSA based Portability and Rapidus / Tenstorrent Inference Architecture 　
 Latest　Ver.1.4-3 Revised July 30, 2026
