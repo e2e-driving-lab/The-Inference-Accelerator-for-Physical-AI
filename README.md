@@ -1,4 +1,4 @@
-# The-Inference-Accelerator for Physical AI　 Ver.4
+# The-Inference-Accelerator for Physical AI　 Ver.4.3
 
 Integration of General Purpose Training Infrastructures with the Inference Accelerator Using Open Source Compiler Toolchains
 This paper proposes an open and hardware-independent architecture for connecting large-scale AI model training in the cloud with high-performance, low-latency inference on edge SoCs incorporating Rapidus GAA and Tenstorrent technologies.
