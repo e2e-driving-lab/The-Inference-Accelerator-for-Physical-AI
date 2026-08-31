@@ -25,6 +25,6 @@ Although abstraction layers such as APIs and SDKs do not lose direct compatibili
 ＊Designs an SDK that allows flexible combination of sensor groups and effective utilization of the API group.
 
 Through this structure, companies aiming to advance RMSs and SDVs can:
-1. effectively utilize the accurate abstraction of cutting‑edge semiconductor physical characteristics and the definition of control boundaries such as power efficiency.
+1. effectively utilize the accurate abstraction of cutting edge semiconductor physical characteristics and the definition of control boundaries such as power efficiency.
 2. freely select sensors optimal for RMS and SDV users.
 
