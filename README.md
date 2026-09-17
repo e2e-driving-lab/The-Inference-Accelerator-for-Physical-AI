@@ -11,7 +11,7 @@ Latest  Ver.4-3 Revised July 30, 2026
 ONNX and TOSA based Portability and Rapidus / Tenstorrent Inference Architecture 　
 Latest　Ver.1.4-3 Revised July 30, 2026
 
-## Extended Technical Appendix 
+## Extended Technical Appendix:
 Physical AI as an Integrated Technology Stack: Trends in Foundational and 
 Implementation Technologies for Embodied Intelligence　
 Latest　Ver.1.4 Revised Aug 1, 2026
