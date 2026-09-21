@@ -14,7 +14,7 @@ Latest　Ver.1.4-3 Revised July 30, 2026
 ## Extended Technical Appendix:
 Physical AI as an Integrated Technology Stack: Trends in Foundational and 
 Implementation Technologies for Embodied Intelligence　
-Latest　Ver.1.4-3 Revised Aug 14, 2026
+Latest　Ver.1.4-4 Revised Aug 17, 2026
 *****************************************************************************************************************************************
 The following passage is taken from the document released in September 2025, Strategic Considerations of the Gate All Around (GAA) Transistor for AI Semiconductors in Software Defined Vehicles (SDVs) and Robotic Manipulation Systems: latest revised on Dec. 04, 2025.
 
